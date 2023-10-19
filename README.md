@@ -2,7 +2,7 @@
 
 ### 🔥 NOTHING IMPOSSIBLE 🔥
 
-끝 없이 도전하는 개발자가 되고싶습니다
+끝없이 도전하는 개발자가 되고싶습니다
 
 ### :computer: Tech Stack :computer:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
